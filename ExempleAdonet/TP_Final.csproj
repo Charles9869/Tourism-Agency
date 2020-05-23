@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{319211F0-505D-423A-9A10-7B1070A1AF91}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ExempleAdonet</RootNamespace>
+    <AssemblyName>ExempleAdonet</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\PM DLL\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.121.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL" />
+    <Reference Include="PhotoManagerWebServices, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\PM DLL\PhotoManagerWebServices.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http.Formatting">
+      <HintPath>..\PM DLL\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DLG_About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DLG_About.Designer.cs">
+      <DependentUpon>DLG_About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DLG_AfficherInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DLG_AfficherInformation.Designer.cs">
+      <DependentUpon>DLG_AfficherInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DLG_Aide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DLG_Aide.Designer.cs">
+      <DependentUpon>DLG_Aide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DLG_AjoutCircuit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DLG_AjoutCircuit.Designer.cs">
+      <DependentUpon>DLG_AjoutCircuit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DLG_AjoutMonument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DLG_AjoutMonument.Designer.cs">
+      <DependentUpon>DLG_AjoutMonument.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DLG_NbEtoiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DLG_NbEtoiles.Designer.cs">
+      <DependentUpon>DLG_NbEtoiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DLG_Prix.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DLG_Prix.Designer.cs">
+      <DependentUpon>DLG_Prix.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PM_Control\DB_Images.cs" />
+    <Compile Include="PM_Control\FlashButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PM_Control\ImageBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PM_Control\ImagesLayout.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PM_Control\PhotosBrowser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PM_Control\ValidationProvider.cs" />
+    <Compile Include="PM_Control\WaitSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Star.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Stars.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <EmbeddedResource Include="DLG_About.resx">
+      <DependentUpon>DLG_About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DLG_AfficherInformation.resx">
+      <DependentUpon>DLG_AfficherInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DLG_Aide.resx">
+      <DependentUpon>DLG_Aide.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DLG_AjoutCircuit.resx">
+      <DependentUpon>DLG_AjoutCircuit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DLG_AjoutMonument.resx">
+      <DependentUpon>DLG_AjoutMonument.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DLG_NbEtoiles.resx">
+      <DependentUpon>DLG_NbEtoiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DLG_Prix.resx">
+      <DependentUpon>DLG_Prix.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stars.resx">
+      <DependentUpon>Stars.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\travel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\travel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carousel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tiny-50-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-bars.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-bars %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-bars %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\air-transport.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ICON_Ajouter_Click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ICON_Ajouter_Disable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ICON_Ajouter_Neutral.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ICON_Ajouter_Over.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_disable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_neutre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monument.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circuit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circuit_neutre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dollar_neutre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ville_neutre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circuit_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circuit_disable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_disable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dollar_disable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dollar_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monument_disable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monument_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ville_over.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ville_disable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NEUTRE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OVER.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CLICK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DISABLE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\over %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\click %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disable %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joshua-james-shaw-marvel-tv-kick-dragontattoo-2016-04-04.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

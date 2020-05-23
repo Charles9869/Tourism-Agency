@@ -1,0 +1,216 @@
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.exe.config
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.exe
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.pdb
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.dll
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.pdb
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.xml
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csprojAssemblyReference.cache
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AjoutCircuit.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AjoutMonument.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_CreationCompteLogin.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Inscription.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_OptionConnexion.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Prix.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Reservation.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_VoirHistoire.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Properties.Resources.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Main.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\EvaluationDemo.Stars.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.GenerateResource.cache
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.CopyComplete
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.exe
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.pdb
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Test.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Parametres.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_NbEtoiles.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AfficherInformation.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.exe.config
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.exe
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.pdb
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.dll
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.pdb
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.xml
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csprojAssemblyReference.cache
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AfficherInformation.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AjoutCircuit.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AjoutMonument.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_CreationCompteLogin.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Inscription.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_NbEtoiles.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_OptionConnexion.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Parametres.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Prix.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Reservation.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_VoirHistoire.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Test.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Properties.Resources.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Main.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\EvaluationDemo.Stars.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.GenerateResource.cache
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.CopyComplete
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.exe
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.pdb
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_About.resources
+C:\Users\Charles\Desktop\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Aide.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.exe.config
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.exe
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.pdb
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.dll
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.pdb
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.xml
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csprojAssemblyReference.cache
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_About.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AfficherInformation.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Aide.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AjoutCircuit.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AjoutMonument.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_CreationCompteLogin.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Inscription.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_NbEtoiles.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_OptionConnexion.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Parametres.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Prix.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Reservation.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_VoirHistoire.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Test.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Properties.Resources.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Main.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\EvaluationDemo.Stars.resources
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.GenerateResource.cache
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.CoreCompileInputs.cache
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.CopyComplete
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.exe
+C:\Users\jimba\OneDrive\Bureau\TP Final BD\TpFinalBD\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.pdb
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.exe.config
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.exe
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.pdb
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.dll
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.pdb
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.xml
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csprojAssemblyReference.cache
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_About.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AfficherInformation.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Aide.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AjoutCircuit.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AjoutMonument.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_CreationCompteLogin.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Inscription.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_NbEtoiles.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_OptionConnexion.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Parametres.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Prix.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Reservation.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_VoirHistoire.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Test.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Properties.Resources.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Main.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\EvaluationDemo.Stars.resources
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.GenerateResource.cache
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.CoreCompileInputs.cache
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.CopyComplete
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.exe
+C:\Users\jimba\OneDrive\Bureau\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.pdb
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csprojAssemblyReference.cache
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.exe
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.pdb
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.exe.config
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.exe
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.pdb
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.dll
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.pdb
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.xml
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_About.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AfficherInformation.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Aide.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AjoutCircuit.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AjoutMonument.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_CreationCompteLogin.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Inscription.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_NbEtoiles.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_OptionConnexion.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Prix.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_VoirHistoire.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Properties.Resources.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Main.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\EvaluationDemo.Stars.resources
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.GenerateResource.cache
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Desktop\TpFinalBD\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.CopyComplete
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.exe.config
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.exe
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.pdb
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.dll
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.pdb
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.xml
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csprojAssemblyReference.cache
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_About.resources
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AfficherInformation.resources
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Aide.resources
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AjoutCircuit.resources
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AjoutMonument.resources
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_CreationCompteLogin.resources
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Inscription.resources
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_NbEtoiles.resources
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_OptionConnexion.resources
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Prix.resources
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_VoirHistoire.resources
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Properties.Resources.resources
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Main.resources
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\EvaluationDemo.Stars.resources
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.GenerateResource.cache
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.CopyComplete
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.exe
+C:\Users\Charles\Desktop\TP Version Finale\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.pdb
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csprojAssemblyReference.cache
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.exe.config
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.exe
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\bin\Debug\ExempleAdonet.pdb
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.dll
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.pdb
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\bin\Debug\PhotoManagerWebServices.xml
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_About.resources
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AfficherInformation.resources
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Aide.resources
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AjoutCircuit.resources
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_AjoutMonument.resources
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_NbEtoiles.resources
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.DLG_Prix.resources
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Properties.Resources.resources
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.Main.resources
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\obj\Debug\EvaluationDemo.Stars.resources
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.GenerateResource.cache
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\obj\Debug\TP_Final.csproj.CopyComplete
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.exe
+C:\Users\Charles\Downloads\Charles_Bertrand_James_Cousineau Final Version\Charles_Bertrand_James_Cousineau Final Version\TpFinalBD\ExempleAdonet\obj\Debug\ExempleAdonet.pdb
