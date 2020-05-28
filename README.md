@@ -1,4 +1,5 @@
 # TOURISM AGENCY
+This application was created to manage places to visit and monuments.
 
 ## TECHNOLOGIES
 
